@@ -9,4 +9,4 @@
 5. Vamos a  Adapter 1 y en Advanced tiene un triangulo azul, lo clicamos y vamos a Port Forwarding y en Host ip, colocas tu ip de vboxnet0, todo lo demas igual que en la foto.
     ![Imagen 3](https://github.com/johnconh/snowcrash/blob/main/img/image.png)
 6. Si todo es correcto te saldra esta imagen
-   ![Imagen 4](https://github.com/jonconh/snowcrash/blob/main/img/image%20(3).png)
+   ![Imagen 4](https://github.com/johnconh/snowcrash/blob/main/img/image%20(3).png)
